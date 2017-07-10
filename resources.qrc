@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>icons/Crystal_Clear_action_run.png</file>
+        <file>icons/Crystal_Clear_action_viewmag1.png</file>
+        <file>icons/Crystal_Clear_action_viewmag-.png</file>
+        <file>icons/Crystal_Clear_action_viewmag+.png</file>
+        <file>icons/Crystal_Clear_action_viewmagfit.png</file>
+        <file>icons/Crystal_Clear_app_kfloppy.png</file>
+        <file>icons/Crystal_Clear_device_floppy_unmount.png</file>
+        <file>icons/Crystal_Clear_filesystem_folder_images.png</file>
+        <file>icons/Crystal_128_back.png</file>
+        <file>icons/Crystal_128_forward.png</file>
+        <file>icons/CS-Icon.svg</file>
+    </qresource>
+</RCC>
